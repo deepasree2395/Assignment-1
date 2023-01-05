@@ -59,3 +59,53 @@ rm Devops_Training/
 rmdir Devops_Training/
 cd Devops_Training/
 cat
+clear
+git statis
+clear
+git status
+git branch
+git branch bran1
+git branch
+git add .
+git status
+ls
+cd devops
+ls
+git status
+git remote add origin 
+git remote add origin "git@github.com:deepasree2395/Deepa-01.git"
+git version -v
+git branch
+git branch master
+git branch help
+git branch man
+git checkout master
+git remote add origin "https://github.com/deepasree2395/Deepa-01"
+git version -v
+git version --v
+clear
+ls
+cd devops
+ls
+git remote add main
+git remote add main "https://github.com/deepasree2395/Deepa-01.git"
+git status
+git --version
+git version -v
+git version --v
+git push origin main
+git push origin master
+git remote -v
+git push origin main
+git init
+git push origin main
+clear
+git remote -v
+clear
+git remote -v
+git branch
+git push origin master
+git remote remove origin
+clear
+git remote add origin https://github.com/deepasree2395/Deepa-01.git
+git push origin master
